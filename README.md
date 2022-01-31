@@ -34,12 +34,10 @@
     - npm run seed (currently unavailable but when functional run)
     - npm run develop 
 
-  ## Demo and Links
-
-  ![demo](./#)
-  
+  ## Link
+  https://fabriverse.herokuapp.com/
   ## My Contribution
-  - Framework, backend, and visual/html for the post it bulletin function
+  - FrontEnd and BackEnd for the Make a Request/Bulletin 
 
   ## Contributing 
 
