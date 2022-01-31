@@ -37,6 +37,9 @@
   ## Demo and Links
 
   ![demo](./#)
+  
+  ## My Contribution
+  - Framework, backend, and visual/html for the post it bulletin function
 
   ## Contributing 
 
